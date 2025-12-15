@@ -7,8 +7,14 @@
 
 ## 📸 Screenshot
 
-![Dashboard Preview](https://via.placeholder.com/800x450.png?text=Dashboard+Preview)
-![Users Management](https://via.placeholder.com/800x450.png?text=Users+Management)
+<div align="center">
+  
+### Dashboard Overview
+![Dashboard Preview](screenshoot/image.png)
+
+*Modern dashboard dengan statistik real-time, charts interaktif, dan data visualization*
+
+</div>
 
 ## ✨ Fitur Utama
 
